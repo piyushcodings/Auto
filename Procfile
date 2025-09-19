@@ -1,1 +1,1 @@
-web: gunicorn autoshopii:app
+web: gunicorn autoshopii_api:app

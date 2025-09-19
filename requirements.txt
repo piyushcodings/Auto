@@ -3,3 +3,4 @@ requests
 fake-useragent
 colorama
 urllib3
+gunicorn==21.2.0

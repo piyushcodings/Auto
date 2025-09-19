@@ -4,7 +4,7 @@ import sys
 import os
 
 # Ensure working directory and system path
-sys.path.insert(0, os.path.dirname("/mnt/data/autoshopii.py"))
+sys.path.insert(0, os.path.dirname("/app/autoshopii.py"))
 
 app = Flask(__name__)
 
